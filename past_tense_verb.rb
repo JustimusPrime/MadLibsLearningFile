@@ -1,0 +1,1 @@
+@past_tense_verbs = ["ate", "farted", "inflamed", "pickled", "destroyed", "annihilated", "intimidated", "annoyed", "pestered"]

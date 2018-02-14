@@ -1,0 +1,1 @@
+@nouns = ["sprocket", "lightsaber", "pikachu", "shovel", "drugs", "bean", "Bill Gates", "pickle", "portal-gun", "sack" ]
